@@ -75,7 +75,7 @@ export default function Footer() {
       <LinksWrapper>
         <Github
           to={{
-            pathname: "https://github.com/square-bot/portfolio-site.git",
+            pathname: "https://github.com/square-bot/portfolio.git",
           }}
           target="_blank"
         >
