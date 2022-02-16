@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="131.533" height="34.64" viewBox="0 0 131.533 34.64">
+  <g id="Group_38" data-name="Group 38" transform="translate(-149.467 -53.68)">
+    <g id="Group_37" data-name="Group 37" transform="translate(89.179 -18.108)">
+      <rect id="Rectangle_133" data-name="Rectangle 133" width="34.64" height="34.64" transform="translate(60.288 71.788)"/>
+      <rect id="Rectangle_134" data-name="Rectangle 134" width="32.337" height="32.337" transform="translate(61.44 72.94)" fill="#ffe715"/>
+      <path id="Path_423" data-name="Path 423" d="M94.693,93.915v8.359H92.5V97.892H74.907v4.382H72.716V93.915H70.525v12.741h4.382v4.382H92.5v-4.382h4.382V93.915ZM77.165,105.948v-4.382h4.382v4.382Zm8.916,3.708H81.328V107.7h4.753Zm4.163-3.708H85.861v-4.382h4.382Z" transform="translate(-6.096 -13.177)"/>
+      <text id="SquareBot" transform="translate(99.821 97.384)" font-size="20" font-family="Lato-Medium, Lato" font-weight="500"><tspan x="0" y="0">SquareBot</tspan></text>
+    </g>
+  </g>
+</svg>
